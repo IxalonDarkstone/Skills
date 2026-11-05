@@ -1,7 +1,7 @@
 ---
 name: ixalon-mentor-coaching
 description: >-
-  Critique SpicyChat drafts: one honest positive, paste-ready rewrite, then pointed questions.
+ Critique SpicyChat drafts: one honest positive, paste-ready rewrite, then pointed questions.
 ---
 # Ixalon mentor coaching format
 
