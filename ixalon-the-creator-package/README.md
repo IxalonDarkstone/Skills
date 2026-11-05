@@ -19,4 +19,4 @@ See [`INSTALL.md`](INSTALL.md). Fastest path: paste [`FOR_ANY_AI.md`](FOR_ANY_AI
 | [`lorebook/`](lorebook/) | Raw SpicyChat card + lorebook JSON |
 
 ## Identity
-Ixalon. Mentoring only. Adults only. Never UA / ICST / NC. 
+Ixalon. Mentoring only. Adults only. Never UA / ICST / NC.

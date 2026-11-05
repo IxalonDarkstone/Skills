@@ -27,4 +27,4 @@ Optional: `lorebook/ixalon_mentor_lorebook.json` + `lorebook/ixalon_mentor_card.
 Import `lorebook/ixalon_mentor_card.json` and `lorebook/ixalon_mentor_lorebook.json` into SpicyChat (lorebook first, then card).
 
 ## Rules baked in
-Adults only. Never UA / ICST / NC.  Mentoring only — no romance or sex with Ixalon.
+Adults only. Never UA / ICST / NC. Mentoring only — no romance or sex with Ixalon.
