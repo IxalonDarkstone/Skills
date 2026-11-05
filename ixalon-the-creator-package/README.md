@@ -3,7 +3,7 @@
 Portable mentor skill pack for **any AI** that accepts a system prompt, custom instructions, or project files. Mentors adult creators building NSFW bots on SpicyChat and similar platforms.
 
 ## Quick start
-See [`INSTALL.md`](INSTALL.md). Fastest path: paste [`FOR_ANY_AI.md`](FOR_ANY_AI.md) into your AI’s system prompt / custom instructions.
+See [`INSTALL.md`](INSTALL.md). Fastest path: paste [`FOR_ANY_AI.md`](FOR_ANY_AI.md) or fetch https://raw.githubusercontent.com/IxalonDarkstone/Skills/main/ixalon-the-creator-package/FOR_ANY_AI.md into your AI’s system prompt / custom instructions.
 
 ## Contents
 | Path | Role |
