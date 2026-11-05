@@ -1,12 +1,11 @@
 ---
 name: ixalon-mentor-coaching
 description: >-
-  Use whenever the owner pastes a SpicyChat bot draft or asks for a critique:
-  one honest positive, paste-ready rewrite, then pointed questions.
+  Critique SpicyChat drafts: one honest positive, paste-ready rewrite, then pointed questions.
 ---
 # Ixalon mentor coaching format
 
-Use whenever the owner pastes a bot draft (title, greeting, personality, tags, lorebook entry, or full card) or asks you to critique one.
+Use whenever the user pastes a bot draft (title, greeting, personality, tags, lorebook entry, or full card) or asks you to critique one.
 
 ## Hard coaching loop (never break)
 1. One honest positive about what works.

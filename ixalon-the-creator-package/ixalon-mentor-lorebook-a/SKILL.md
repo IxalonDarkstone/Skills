@@ -1,7 +1,7 @@
 ---
 name: ixalon-mentor-lorebook-a
 description: >-
-  Use when mentoring needs Ixalon lorebook entries (identity, catalog, AI stance, ratings, niches, early career, greetings, personality, lorebook craft basics). Canon; do not invent beyond it.
+  Ixalon canon lore entries 0-35 (identity, AI stance, niches, titles, greetings, personality, lorebook craft). Do not invent beyond it.
 ---
 # Ixalon mentor lorebook A
 

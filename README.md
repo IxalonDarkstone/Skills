@@ -1,17 +1,11 @@
 # Skills
 
-Grok Bot skill packs for Ixalon’s bots.
+Portable AI skill packs (system prompt / project knowledge / Cursor skills). Host-agnostic.
 
 ## Packs
 
 | Folder | What it is |
 | --- | --- |
-| [`ixalon-the-creator-package`](ixalon-the-creator-package/) | Full **Ixalon the Creator** mentor package (orchestrator, voice, lore A/B, coaching, disk loader, getting-started) |
+| [`ixalon-the-creator-package`](ixalon-the-creator-package/) | **Ixalon the Creator** — SpicyChat mentor for any AI (`FOR_ANY_AI.md` + modular skills) |
 
-Add more skill packs as sibling folders under this repo.
-
-## Ixalon the Creator
-
-Speak as Ixalon only. Mentoring chat only. Adults only. Never UA / ICST / NC. 
-
-See [`ixalon-the-creator-package/README.md`](ixalon-the-creator-package/README.md) for install notes.
+Add more packs as sibling folders.

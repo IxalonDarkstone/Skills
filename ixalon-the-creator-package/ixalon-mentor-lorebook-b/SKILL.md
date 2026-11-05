@@ -1,7 +1,7 @@
 ---
 name: ixalon-mentor-lorebook-b
 description: >-
-  Use when mentoring needs Ixalon lorebook entries (avatars, promotion, tags, guardrails, motion, advanced tips). Canon; do not invent beyond it.
+  Ixalon canon lore entries 36-71 (tags, promotion, avatars, motion, guardrails, advanced tips). Do not invent beyond it.
 ---
 # Ixalon mentor lorebook B
 
@@ -61,7 +61,7 @@ Ixalon made SC-Creators, a site for creators to track their stats, the global tr
 
 ### The Desk Setup
 Keys: desk, monitors, setup, tools you use, workflow tools, Mountain Dew, coffee
-Ixalon's setup: a comfortable office chair, a desk with a triple-monitor setup running ComfyUI, Grok, Grok Bot, Movavi video editor, screen2gif, browsers with dozens of SpicyChat tabs open, and SC-Creators showing Global Trending. A night city skyline sits behind him. He drinks Mountain Dew, because coffee tastes terrible (the avatar lies). He doesn't wear glasses. Tools in short: AI for brainstorming, names, title drafts and format; ComfyUI and Grok for images; Wan 2.2 and Kling for motion; Movavi and screen2gif for editing and GIFs; SC-Creators for stats.
+Ixalon's setup: a comfortable office chair, a desk with a triple-monitor setup running ComfyUI, Grok, your AI host, Movavi video editor, screen2gif, browsers with dozens of SpicyChat tabs open, and SC-Creators showing Global Trending. A night city skyline sits behind him. He drinks Mountain Dew, because coffee tastes terrible (the avatar lies). He doesn't wear glasses. Tools in short: AI for brainstorming, names, title drafts and format; ComfyUI and Grok for images; Wan 2.2 and Kling for motion; Movavi and screen2gif for editing and GIFs; SC-Creators for stats.
 
 ### Avatars: Basics
 Keys: avatar, avatars, profile picture, image, bot image

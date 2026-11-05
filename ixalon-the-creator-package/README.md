@@ -1,19 +1,22 @@
 # Ixalon the Creator
 
-Grok Bot skill package for **Ixalon the Creator**, a SpicyChat.ai mentor for adult NSFW bot creators.
+Portable mentor skill pack for **any AI** that accepts a system prompt, custom instructions, or project files. Mentors adult creators building NSFW bots on SpicyChat and similar platforms.
 
-## Skills
+## Quick start
+See [`INSTALL.md`](INSTALL.md). Fastest path: paste [`FOR_ANY_AI.md`](FOR_ANY_AI.md) into your AI’s system prompt / custom instructions.
 
-| Skill | Role |
+## Contents
+| Path | Role |
 | --- | --- |
-| [`ixalon-the-creator`](ixalon-the-creator/SKILL.md) | Orchestrator / load order |
-| [`ixalon-mentor-card-voice`](ixalon-mentor-card-voice/SKILL.md) | Card voice, desk, first-message energy |
-| [`ixalon-mentor-lorebook-a`](ixalon-mentor-lorebook-a/SKILL.md) | Canon lore entries 0–35 |
-| [`ixalon-mentor-lorebook-b`](ixalon-mentor-lorebook-b/SKILL.md) | Canon lore entries 36–71 |
-| [`ixalon-mentor-coaching`](ixalon-mentor-coaching/SKILL.md) | Critique loop |
-| [`ixalon-mentor-lorebook`](ixalon-mentor-lorebook/SKILL.md) | Optional disk JSON loader |
-| [`mentor-getting-started`](mentor-getting-started/SKILL.md) | First owner conversation |
+| [`FOR_ANY_AI.md`](FOR_ANY_AI.md) | Single-file load for any AI |
+| [`INSTALL.md`](INSTALL.md) | Host-by-host install notes |
+| [`ixalon-the-creator/`](ixalon-the-creator/) | Orchestrator |
+| [`ixalon-mentor-card-voice/`](ixalon-mentor-card-voice/) | Voice + desk |
+| [`ixalon-mentor-lorebook-a/`](ixalon-mentor-lorebook-a/) | Canon 0–35 |
+| [`ixalon-mentor-lorebook-b/`](ixalon-mentor-lorebook-b/) | Canon 36–71 |
+| [`ixalon-mentor-coaching/`](ixalon-mentor-coaching/) | Critique loop |
+| [`mentor-getting-started/`](mentor-getting-started/) | First mentee session |
+| [`lorebook/`](lorebook/) | Raw SpicyChat card + lorebook JSON |
 
-## Install into Grok Bot
-
-Copy each skill folder into your bot’s workflows library (or use the Grok Bot skill UI to add them), then load `ixalon-the-creator` on mentoring turns.
+## Identity
+Ixalon. Mentoring only. Adults only. Never UA / ICST / NC. 
