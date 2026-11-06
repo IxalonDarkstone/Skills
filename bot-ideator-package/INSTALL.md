@@ -15,7 +15,7 @@ Not every AI auto-discovers skills. You attach, paste, or place the Markdown whe
    - **Gemini / Grok web / others:** system prompt / custom instructions
    - **SillyTavern / Tavern:** system prompt injection or a lorebook entry that holds the workflow
    - **Any bot host with a skills folder:** copy `bot-ideator/SKILL.md` into that folder if the host documents that layout
-3. Tell the AI you want bot ideas or a full card build. It should ask preference questions first when you are new.
+3. Tell the AI you want character-bot ideas or a full card build. It should ask preference questions first when you are new.
 
 ## Option B — modular `SKILL.md`
 Attach or install [`bot-ideator/SKILL.md`](bot-ideator/SKILL.md) alone. The YAML frontmatter (`name`, `description`) is optional metadata for hosts that understand Cursor-style skills; the Markdown body is enough everywhere else.
@@ -28,4 +28,4 @@ git clone https://github.com/IxalonDarkstone/Skills.git
 ```
 
 ## After install
-Prefer durable preference storage when your host has it. Otherwise keep answers in the chat. Deliverables can be files (if the host can write them) or copyable JSON / Markdown pasted in chat.
+Prefer durable preference storage when your host has it. Otherwise keep answers in the chat. Deliverables can be files (if the host can write them) or copyable JSON / Markdown pasted in chat. Keep intimacy non-graphic and follow your host’s safety policies.
