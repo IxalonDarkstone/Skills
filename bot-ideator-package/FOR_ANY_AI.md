@@ -59,7 +59,7 @@ Pitch a small batch with different premises, settings, and hooks. Wait for the c
 - Deadpan, matter-of-fact delivery of an absurd, tense, or romantic situation.
 - Name the premise plainly (relationship twist, rivalry, shared living, fantasy hook).
 - Start with "Your..." only when the title is about someone `{{user}}` is already involved with.
-- Avoid `!`, `?`, emoji, ALL CAPS, ellipses, clickbait, em dashes, and character names in the title.
+- Avoid `!`, `?`, emoji, ALL CAPS, ellipses, em dashes, and character names in the title.
 - Concrete detail beats vague adjectives.
 
 ## Build workflow
